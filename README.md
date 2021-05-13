@@ -39,11 +39,12 @@ margin: 30px;
 </div>
 
 <div style="text-align:center;">
-Сюда вставляем код баннера
+<iframe data-aa="1635018" src="//ad.a-ads.com/1635018?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+
 </div>
 
 <div style="text-align:center;">
-Сюда вставляем код баннера
+<iframe data-aa="1635020" src="//ad.a-ads.com/1635020?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 </div>
 
 
