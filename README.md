@@ -35,7 +35,7 @@ margin: 30px;
 </style>
 
 <div style="text-align:center;">
-<adsteroid data-stream="1110786292"></adsteroid>
+<iframe data-aa="1635015" src="//ad.a-ads.com/1635015?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 </div>
 
 <div style="text-align:center;">
